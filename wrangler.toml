@@ -1,4 +1,5 @@
 name = "cloudsnatcher"
 account_id = "2575000dd90a08dbbeb2b8cca2e64775" # scraper.workers.dev
-type = "webpack"
 workers_dev = true
+main = "index.js"
+compatibility_date = "2025-07-05"
